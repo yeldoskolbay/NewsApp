@@ -1,0 +1,10 @@
+# macOs
+.DS_Store
+
+# Xcode
+xuserdata/
+DerivedData/
+*.scuserstate
+
+# Secrets
+API.swift
